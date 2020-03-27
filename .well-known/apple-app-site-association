@@ -1,15 +1,1 @@
-{
-  "applinks": {
-      "details": [
-           {
-             "appIDs": [ "WQU2GMGD5R.com.pocapp.castlecats"],
-             "components": [
-               {
-                  "/": "*",
-                  "comment": "Matches any URL whose path starts with anything",
-               }
-             ]
-           }
-       ]
-   }
-}
+{"applinks":{"apps":[],"details":[{"appID":"WQU2GMGD5R.com.pocapp.castlecats","paths":["*"]}]}}
