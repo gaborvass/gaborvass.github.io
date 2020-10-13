@@ -1,18 +1,18 @@
 {
    "applinks":{
-      "apps":[],
+      "apps":[
+         
+      ],
       "details":[
          {
-            "appID":"S2TQ8J2C2B.im.getsocial.internal.demo",
+            "appID":"S2TQ8J2C2B1.im.getsocial.internal.demo",
             "paths":[
                "*"
             ],
-            "components": [
-               {
-                  "/": "*",
-                  "comment": "Matches any URL whose path starts with /"
-                },
-            ]
+            "components":{
+               "/":"*",
+               "comment":"Matches any URL whose path starts with /"
+            }
          }
       ]
    }
